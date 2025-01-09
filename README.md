@@ -23,7 +23,7 @@ Controls
 
 -   **A/D**: Steer Left/Right
 
--   **S**: Brake/Reverse
+-   **S**: Deaccelerate
 
 -   **F**: Fire weapon
 
