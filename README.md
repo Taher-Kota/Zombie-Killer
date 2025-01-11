@@ -51,7 +51,7 @@ Follow these steps to set up and play the Zombie Killer 3D project on your local
     -   Clone the repository using Git:
 
         ```
-        git clone <repository-url>
+        git clone https://github.com/Taher-Kota/Zombie-Killer-3D.git
         ```
 
     -   Or download the ZIP file and extract it to your desired directory.
